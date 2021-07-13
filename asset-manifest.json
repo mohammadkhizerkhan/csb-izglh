@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://mohammadkhizerkhan.github.io/csb-izglh/static/css/main.66df929e.chunk.css",
-    "main.js": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/main.78e84118.chunk.js",
-    "main.js.map": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/main.78e84118.chunk.js.map",
+    "main.js": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/main.75449702.chunk.js",
+    "main.js.map": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/main.75449702.chunk.js.map",
     "runtime-main.js": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/runtime-main.35bf88ed.js",
     "runtime-main.js.map": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/runtime-main.35bf88ed.js.map",
     "static/js/2.41440e12.chunk.js": "https://mohammadkhizerkhan.github.io/csb-izglh/static/js/2.41440e12.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.35bf88ed.js",
     "static/js/2.41440e12.chunk.js",
     "static/css/main.66df929e.chunk.css",
-    "static/js/main.78e84118.chunk.js"
+    "static/js/main.75449702.chunk.js"
   ]
 }
